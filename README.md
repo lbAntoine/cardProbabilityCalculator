@@ -1,4 +1,4 @@
-# CSV converter from json (Python)
+# Card probability calculator with Hypergeometric distribution (Python)
 
 This little python file executed in a command line interacts with the user asking for a few information about the data that will be used to calculate the probabilities 😉 If you have any trouble using it, check the gif at the bottom of this readme!
 
